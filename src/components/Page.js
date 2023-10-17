@@ -4,11 +4,8 @@ import React, { useState } from "react";
 
 function Page(props) {
 
-  //const pageNumber = props.pageNumber;
-
-
   return (
-    <table>
+    <table> 
         <tbody>
             <tr>
                 <td>
