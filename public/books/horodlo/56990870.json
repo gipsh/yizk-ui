@@ -1,0 +1,36 @@
+{
+ "id": "56990870",
+ "blocks": [
+  {
+   "upper_left_point": {
+    "x": 165,
+    "y": 100
+   },
+   "bottom_right_point": {
+    "x": 335,
+    "y": 159
+   },
+   "text": "און ביי דעם וואסער טו איך שטיין . די גרענען איז דאך דער בוג . לאזט מיך שוין קיין האראדלע אהיים זאל שוין זיין דאס אלץ גענוג ! ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "And by the water I stand. The neighbor is the bow after all. Don't let me go home, let it all be enough! .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 142,
+    "y": 182
+   },
+   "bottom_right_point": {
+    "x": 337,
+    "y": 243
+   },
+   "text": "די מלחמה האט געמאכט אזוי שלעכט עס איז אונטערגעגאנגען פאר אונדז די זון . יענע צייטן זיך איך מיט ליכט נאר קאן זיי קיינמאל ניט געפינען . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "The war made it so bad that the sun set for us. Those times I can only find them with light. .\n"
+  }
+ ],
+ "filename": "tmp/horodlo/56990870.jpg",
+ "order": 306,
+ "page_number": "304"
+}

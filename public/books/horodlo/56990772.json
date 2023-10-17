@@ -1,0 +1,36 @@
+{
+ "id": "56990772",
+ "blocks": [
+  {
+   "upper_left_point": {
+    "x": 101,
+    "y": 100
+   },
+   "bottom_right_point": {
+    "x": 432,
+    "y": 148
+   },
+   "text": "זאלן געדענקען די האראדלער ווו זיי זאלן ניט זיין , און זאל געדענקען דאס יידיש פאלק , די הייליקע און טייערע נפשות וואס זענען פארטיליקט געווארן דורך די טמאים , אן א שום שולד און זינד ! ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "May the Haradlers be remembered where they should not be, and may the Jewish people be remembered, the holy and precious souls who were destroyed by the impure, without any guilt or sin! .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 178,
+    "y": 587
+   },
+   "bottom_right_point": {
+    "x": 361,
+    "y": 612
+   },
+   "text": "א יזכור פערזאמלונג נאך די האראדלער קדושים . תל - אביב . יחי תשיז ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "I will remember Perzamlung Nach Di Haradler Kadoshim. Tel Aviv . Long live Tishiz.\n"
+  }
+ ],
+ "filename": "tmp/horodlo/56990772.jpg",
+ "order": 208,
+ "page_number": "205"
+}

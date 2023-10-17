@@ -1,0 +1,50 @@
+{
+ "id": "56990599",
+ "blocks": [
+  {
+   "upper_left_point": {
+    "x": 234,
+    "y": 353
+   },
+   "bottom_right_point": {
+    "x": 298,
+    "y": 361
+   },
+   "text": "בית הכנסת הגדול ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "The Great Synagogue.\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 108,
+    "y": 399
+   },
+   "bottom_right_point": {
+    "x": 428,
+    "y": 551
+   },
+   "text": "דאוונען אין די וואָבן טעג די מערסטע יידן פון שטעטל , און וואָס האָט אויך געדינט ווי אַ צענטער פון תורה און תפילה און ווי דאָס פּלאַץ פון דעם געזעל־ שאַפטלעכן לעבן פון דער שטאָט . מיט זייער גאַנצער פארנומענקייט און יאָגעניש נאָך פרנסה , האָבן די האָראָדלער יידן געפונען צייט פאר תורה אין תפילה בציבור אין בית המדרש . שוין גאַנץ פרי פלעגן שטראמען די האָראַדלער יידן צום בית־ המדרש . דאווענען שחרית , און פארנאַכט זענען זיי ווידער זיך צונויפגעקומען אויף מנחה מעריב , און נאָכדעם פלעגן זיי זיך ארומזעצן אַרום די לאַנגע הילצערנע טישן צו לערנען אַ בלאַט גמרא , משניות , עין יעקב אָדער פרשת השבוע , און נאָכן לערנען פלעגן זיי צווישן זיך שמועסן וועגן פרנסה אדער וועגן טאָגי געשעענישן . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "During these days, most of the Jews of the town prayed, and which also served as a center of Torah and prayer and as the site of the social life of the town. With all their busyness and rush for livelihood, the Horodler Jews found time for Torah in public prayer in the synagogue. From quite early on, the Horadler Jews used to flock to the synagogue. They pray at dawn, and in the evening they gather again for Mencha Mearib, and after that they used to sit around the long wooden tables to study a page of Talmud, Mishniyot, Ein Ya'akov or Parashat HaShavu, and after studying they used to talk to each other about livelihood or About today's events. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 109,
+    "y": 569
+   },
+   "bottom_right_point": {
+    "x": 429,
+    "y": 612
+   },
+   "text": "דאס שטעטל אין די שבתים און ימים טובים ווי מיר האָבן שוין אויבן געזאָגט , פלעגן די שבתים און יידישע ימים טובים לייגן זייער חותם אויפן שטעטל . דעם אָנקום פון דעם שבת פלעג מען שוין ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "The town during the Shabbat and Yam Tovim As we have already said above, the Shabbat and Jewish Yam Tovim used to leave their mark on the town. The arrival of the Sabbath is already used.\n"
+  }
+ ],
+ "filename": "tmp/horodlo/56990599.jpg",
+ "order": 35,
+ "page_number": "33"
+}

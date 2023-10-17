@@ -1,0 +1,120 @@
+{
+ "id": "56990568",
+ "blocks": [
+  {
+   "upper_left_point": {
+    "x": 266,
+    "y": 256
+   },
+   "bottom_right_point": {
+    "x": 300,
+    "y": 279
+   },
+   "text": "YORK ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "YORK .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 228,
+    "y": 274
+   },
+   "bottom_right_point": {
+    "x": 265,
+    "y": 329
+   },
+   "text": "THE NEW ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "THE NEW .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 246,
+    "y": 362
+   },
+   "bottom_right_point": {
+    "x": 280,
+    "y": 394
+   },
+   "text": "ASTOR ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "ASTOR .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 304,
+    "y": 255
+   },
+   "bottom_right_point": {
+    "x": 347,
+    "y": 276
+   },
+   "text": "PUBLIC ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "PUBLIC .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 268,
+    "y": 633
+   },
+   "bottom_right_point": {
+    "x": 295,
+    "y": 664
+   },
+   "text": "E ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "AND .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 277,
+    "y": 388
+   },
+   "bottom_right_point": {
+    "x": 352,
+    "y": 417
+   },
+   "text": "LENOX FOUNDATIONS ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "LENOX FOUNDATIONS .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 337,
+    "y": 355
+   },
+   "bottom_right_point": {
+    "x": 375,
+    "y": 392
+   },
+   "text": "TILDER ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "TILDER .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 270,
+    "y": 639
+   },
+   "bottom_right_point": {
+    "x": 380,
+    "y": 652
+   },
+   "text": "ם על חתל - אביב ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "on Hatel-Aviv.\n"
+  }
+ ],
+ "filename": "tmp/horodlo/56990568.jpg",
+ "order": 4,
+ "page_number": ""
+}

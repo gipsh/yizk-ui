@@ -1,0 +1,148 @@
+{
+ "id": "56990875",
+ "blocks": [
+  {
+   "upper_left_point": {
+    "x": 115,
+    "y": 130
+   },
+   "bottom_right_point": {
+    "x": 421,
+    "y": 157
+   },
+   "text": "גאלדבערג שמואל , זיין פרוי פייגע , דער זון שמעון , די טעכטער : בלומע און טויבע . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Goldberg Shmuel, his wife Fige, the son Shimon, the daughters: Blume and Dove. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 215,
+    "y": 153
+   },
+   "bottom_right_point": {
+    "x": 421,
+    "y": 213
+   },
+   "text": "גרובער יואל , זיין פרוי מרים און זייערע קינדער . גרובער יצחק , זיין פרוי חיה . גרובער דוד . גרובער יעקב . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Gruber Joel, his wife Mary and their children. Gruber Isaac, his wife Haya. Gruber David. Gruber Jacob. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 266,
+    "y": 237
+   },
+   "bottom_right_point": {
+    "x": 270,
+    "y": 244
+   },
+   "text": "ד ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "d.\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 232,
+    "y": 253
+   },
+   "bottom_right_point": {
+    "x": 423,
+    "y": 306
+   },
+   "text": "דרוקער שרה דאטעלגעלד פריידע . דאטעלגעלד מאיר , זיין פרוי און צוויי קינדער . דאטעלגעלך רחל . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Printer Sarah Datelgeld Freide. Datelgeld Meyer, his wife and two children. Datelgelach Rachel. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 235,
+    "y": 331
+   },
+   "bottom_right_point": {
+    "x": 422,
+    "y": 373
+   },
+   "text": "ה האק משה , זיין פרוי פעשע און צוויי קינדער . הענדל בן - ציון . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Hak Moshe, his wife Feshe and two children. Hendel Ben-Zion. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 122,
+    "y": 377
+   },
+   "bottom_right_point": {
+    "x": 422,
+    "y": 401
+   },
+   "text": "הירש חיים , זיין פרוי הינדע און דריי קינדער . הערבסט מענדל , זיין פרוי און צוויי קינדער : לייב און איר טאכטער . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Hirsh Haim, his wife Hinde and three children. Herbst Mendel, his wife and two children: Leib and her daughter. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 115,
+    "y": 407
+   },
+   "bottom_right_point": {
+    "x": 422,
+    "y": 471
+   },
+   "text": "הארבסט טויבע . העכט גיטל רויזע און צוויי קינדער : בלומע און ישראל . האלפערין אלעזר , זיין פרוי שבע און זייער זון משה זיין פרוי נחמה און זייער זון אברהם און זיין פרוי ביילע און זייער טאכטער טשארנע און זייער אייניקל איטשע . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Autumn dove. Rose and two children: Blume and Israel. Halferin Elazar, his wife Sheba and their son Moshe, his wife Nachma and their son Avraham and his wife Bayle and their daughter Charne and their granddaughter Iche. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 164,
+    "y": 474
+   },
+   "bottom_right_point": {
+    "x": 423,
+    "y": 516
+   },
+   "text": "האלפערין מענדל , זיין פרוי פריידע . העכט יוסף , זיין פרוי הינדע און זייערע זין שלמה און לייב . הארפין שמואל . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Halferin Mendel, his wife Freide. Hecht Yosef, his wife Hinde and their sons Shlomo and Leib. Harpin Samuel. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 217,
+    "y": 520
+   },
+   "bottom_right_point": {
+    "x": 422,
+    "y": 545
+   },
+   "text": "הארפין פייע , איר זון משה . מרדכי שערער , דער איידעם פון שמואל הערבסט . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Harpin Faye, her son Moshe. Mordechai Sherer, the son-in-law of Shmuel Herbst. .\n"
+  },
+  {
+   "upper_left_point": {
+    "x": 115,
+    "y": 581
+   },
+   "bottom_right_point": {
+    "x": 423,
+    "y": 607
+   },
+   "text": "וויינטרויב אברהם , זיין פרוי שרה , די קינדער : דוד מינדל , גדליהו און שולמית . ",
+   "origin_language": "",
+   "target_language": "",
+   "translated_text": "Wine grape Avraham, his wife Sarah, the children: David Mindel, Gedaliah and Shulamit. .\n"
+  }
+ ],
+ "filename": "tmp/horodlo/56990875.jpg",
+ "order": 311,
+ "page_number": "309"
+}
