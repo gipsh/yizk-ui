@@ -26,8 +26,8 @@ function Book(props) {
             {props.name}
         </div>
         <Page
-            originalImage={"books/" + props.folder + "/" + currentPageId + ".jpg"}
-            translatedImage={"books/" + props.folder + "/" + currentPageId + ".render.png"}
+            originalImage={"/books/" + props.folder + "/" + currentPageId + ".jpg"}
+            translatedImage={"/books/" + props.folder + "/" + currentPageId + ".render.png"}
         />
             <button onClick={previousPage}>Back</button>
             <button onClick={nextPage}>Next</button>

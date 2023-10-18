@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
        <Book
          name="Horodlo"
-         folder="Horodlo"
+         folder="horodlo"
          initalPage={56990565}
          maxPages={322}
         />
