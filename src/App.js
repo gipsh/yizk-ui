@@ -1,6 +1,5 @@
 import './App.css';
 import Book from './components/Book';
-import books from './books.json';
 
 
 function App() {
