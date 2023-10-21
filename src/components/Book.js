@@ -24,10 +24,10 @@ const Book = (props) => {
 
     return (
         <div>
-            <div>{props.name}</div>
+            <div>{name}</div>
             <Page
-                originalImage={"/books/" + props.folder + "/" + pageNumber + ".jpg"}
-                translatedImage={"/books/" + props.folder + "/" + pageNumber + ".render.png"}
+                originalImage={"/books/" + folder + "/" + pageNumber + ".jpg"}
+                translatedImage={"/books/" + folder + "/" + pageNumber + ".render.png"}
             />
             <div>
             <button onClick={previousPage}>Back</button>

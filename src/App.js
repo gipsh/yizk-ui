@@ -1,6 +1,5 @@
 import "./App.css";
 import Book from "./components/Book";
-import BookItem from "./components/BookItem";
 import books from "./books.json";
 import { nanoid } from "nanoid";
 import React, { useState } from "react";
