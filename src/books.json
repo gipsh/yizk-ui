@@ -1,0 +1,18 @@
+{
+    "books": [
+        {
+            "name": "horodlo",
+            "folder": "horodlo",
+            "initial_page": 56990565,
+            "pages": 328,
+            "cover": "56990567.jpg"
+        },
+        {
+            "name": "ustila",
+            "folder":"ustila",
+            "initial_page": 5644938,
+            "pages": 422,
+            "cover": "5644939.jpg"
+        }
+    ]   
+}
