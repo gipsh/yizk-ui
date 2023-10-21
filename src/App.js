@@ -36,7 +36,7 @@ function App() {
 
           {books.books.map((book, i) => {
             return (
-              <ImageListItem key={i}>
+              <ImageListItem key={i} onClick={(e) => handleSelect(e, book)}>
                 <img
                   id={"book-" + nanoid()}
                   key={i}
@@ -44,7 +44,7 @@ function App() {
                   src={process.env.PUBLIC_URL + "/books/" + book.folder + "/" + book.cover}
                   alt={book.name}
                   loading="lazy"
-                  onClick={(e) => handleSelect(e, book)}
+                 //onClick={(e) => handleSelect(e, book)}
                 />
                 <ImageListItemBar
                   title={book.name}

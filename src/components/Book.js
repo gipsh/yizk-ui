@@ -29,8 +29,18 @@ const Book = (props) => {
                 originalImage={"/books/" + props.folder + "/" + pageNumber + ".jpg"}
                 translatedImage={"/books/" + props.folder + "/" + pageNumber + ".render.png"}
             />
+            <div>
             <button onClick={previousPage}>Back</button>
             <button onClick={nextPage}>Next</button>
+            </div>
+            <div>
+                Go to page:        
+               <input 
+               type="number" 
+               value={pageNumber - parseInt(initialPage) + 1} 
+               //onChange={(e) => setPageNumber(e.target.value + parseInt(initialPage) - 1)} 
+               />
+            </div>
         </div>
     );
 };
